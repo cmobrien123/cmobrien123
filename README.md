@@ -4,8 +4,6 @@
 
 - I am enrolled in UVA's Masters of Science in Data Science, which includes studying a variety of topics including data mining, linear models for data science, statistical learning, Bayesian machine learning, deep learning, and ethics of big data. 
 
-- I’m looking to collaborate on projects to further my understanding of how to apply data science and machine learning to solve real world problems. In particular, I am excited to apply what I am learning in my courses to challenges facing private and public section partners of UVA in a capstone project I will start in the fall of 2021.  
-
 - You can reach me via the following:
 
   Personal email: cmobrien123@gmail.com
