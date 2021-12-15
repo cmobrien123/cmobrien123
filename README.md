@@ -5,8 +5,6 @@
 - I am enrolled in UVA's Masters of Science in Data Science, which includes studying a variety of topics including data mining, linear models for data science, statistical learning, Bayesian machine learning, deep learning, and ethics of big data. 
 
 - You can reach me via the following:
-
-  Personal email: cmobrien123@gmail.com
   
   UVA email: tne5bn@virginia.edu
   
